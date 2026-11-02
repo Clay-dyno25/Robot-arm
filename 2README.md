@@ -28,7 +28,19 @@ I made Ulysses as a passion project for my university applications. The upcoming
 ### Exploded / parts view
 
 <p align="center">
-  <img width="932" alt="Ulysses parts layout" src="https://github.com/user-attachments/assets/b91d1275-8e76-437f-aa21-ada1962af0ea" />
+  <img width="401" height="409" alt="image" src="https://github.com/user-attachments/assets/42883ca4-4c27-4133-9c60-7cb50b07e4e6" />
+</p>
+
+<p align="center">
+  <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/34c22d30-58f5-4f52-bd0b-586078650c9a" />
+</p>
+
+<p align="center">
+  <img width="499" height="548" alt="image" src="https://github.com/user-attachments/assets/951eb43b-581d-46f2-b19c-4f76225c7d24" />
+</p>
+
+<p align="center">
+  <img width="520" height="563" alt="image" src="https://github.com/user-attachments/assets/a1cb8692-34a1-40b6-a84a-701cd8d57b5f" />
 </p>
 
 *Figure 2: Ulysses broken down into its parts: base (gear plate, rotating plate), servo cases, lower arm, upper arm and wrist.*
