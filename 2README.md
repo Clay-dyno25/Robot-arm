@@ -28,11 +28,11 @@ I made Ulysses as a passion project for my university applications. The upcoming
 ### Exploded / parts view
 
 <p align="center">
-  <img width="401" height="409" alt="image" src="https://github.com/user-attachments/assets/42883ca4-4c27-4133-9c60-7cb50b07e4e6" />
+  
 </p>
 
 <p align="center">
-  <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/34c22d30-58f5-4f52-bd0b-586078650c9a" />
+  
 </p>
 
 <p align="center">
@@ -40,8 +40,38 @@ I made Ulysses as a passion project for my university applications. The upcoming
 </p>
 
 <p align="center">
+  <img width="499" height="548" alt="image" src="https://github.com/user-attachments/assets/951eb43b-581d-46f2-b19c-4f76225c7d24" />
+  <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/34c22d30-58f5-4f52-bd0b-586078650c9a" />
+  <img width="401" height="409" alt="image" src="https://github.com/user-attachments/assets/42883ca4-4c27-4133-9c60-7cb50b07e4e6" />
   <img width="520" height="563" alt="image" src="https://github.com/user-attachments/assets/a1cb8692-34a1-40b6-a84a-701cd8d57b5f" />
 </p>
+
+<p align="center">
+  <img width="223" height="228" alt="image" src="https://github.com/user-attachments/assets/3d5eb582-6026-415d-9a47-8757d83d1f04" />
+  <img width="187" height="219" alt="image" src="https://github.com/user-attachments/assets/b005cca6-c77a-4439-b84f-6d7cd3b2221c" />
+  <img width="255" height="291" alt="image" src="https://github.com/user-attachments/assets/6968a27b-9c31-4676-9bc1-d38b4f165ce0" />
+</p>
+
+<p align="cemter">
+  <img width="258" height="339" alt="image" src="https://github.com/user-attachments/assets/b5ff0231-75a4-4d3b-beee-783d6c2e8b72" />
+  <img width="306" height="333" alt="image" src="https://github.com/user-attachments/assets/9351a103-eb6d-492e-93ab-7a5ac41c31b0" />
+  <img width="120" height="156" alt="image" src="https://github.com/user-attachments/assets/8225ce60-d4c8-4623-b08a-f6c60c63e045" />
+  <img width="214" height="189" alt="image" src="https://github.com/user-attachments/assets/2b419130-0794-48eb-8cef-1ca377670c3f" />
+
+</p>
+
+<p align="center">
+  <img width="199" height="507" alt="image" src="https://github.com/user-attachments/assets/45292477-5216-41f5-9988-2dbd8af7438d" />
+</p> 
+
+<p align="center">
+  <img width="187" height="485" alt="image" src="https://github.com/user-attachments/assets/0c827f58-39eb-4461-a7dc-438d94955277" />
+  <img width="175" height="328" alt="image" src="https://github.com/user-attachments/assets/fe330f93-5e7a-4cde-a047-c898595d8f49" />
+  <img width="185" height="438" alt="image" src="https://github.com/user-attachments/assets/c08f7822-8ddf-4d3d-ac64-5a759f87e12a" />
+  <img width="478" height="541" alt="image" src="https://github.com/user-attachments/assets/169e6ae6-803d-4aa7-8f17-d9f97c0afd96" />
+</p> 
+
+
 
 *Figure 2: Ulysses broken down into its parts: base (gear plate, rotating plate), servo cases, lower arm, upper arm and wrist.*
 
