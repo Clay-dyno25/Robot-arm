@@ -137,7 +137,7 @@ Before running the full routine, power the arm and send each servo to its centre
 
 ## How to flash
 
-> **TODO:** Fill in for your controller (e.g. Arduino Uno/Nano, ESP32, Raspberry Pi Pico).
+Arduino Uno R3
 
 1. Install the toolchain (e.g. Arduino IDE).
 2. Download or clone this repository.
@@ -162,9 +162,9 @@ Before running the full routine, power the arm and send each servo to its centre
 
 ## Known issues
 
-- `TODO:` e.g. servo jitter under load, limited payload, small gear backlash in the base. Add whatever you actually observed.
+3D printing tolerances 
 
 ## Credits
 
 - Designed in [Onshape](https://www.onshape.com/).
-- `TODO:` list any open-source firmware, libraries (e.g. the Arduino `Servo` library) or others' work you used.
+- Wiring diagram and schematic designed in [Tinkercad](https://www.tinkercad.com/)
