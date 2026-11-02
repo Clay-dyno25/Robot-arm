@@ -25,20 +25,7 @@ I made Ulysses as a passion project for my university applications. The upcoming
 
 *Figure 1: Full 3D model of Ulysses (Onshape).*
 
-### Exploded / parts view
-
-<p align="center">
-  
-</p>
-
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <img width="499" height="548" alt="image" src="https://github.com/user-attachments/assets/951eb43b-581d-46f2-b19c-4f76225c7d24" />
-</p>
-
+### parts view
 <p align="center">
   <img width="499" height="548" alt="image" src="https://github.com/user-attachments/assets/951eb43b-581d-46f2-b19c-4f76225c7d24" />
   <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/34c22d30-58f5-4f52-bd0b-586078650c9a" />
@@ -57,7 +44,7 @@ I made Ulysses as a passion project for my university applications. The upcoming
   <img width="306" height="333" alt="image" src="https://github.com/user-attachments/assets/9351a103-eb6d-492e-93ab-7a5ac41c31b0" />
   <img width="120" height="156" alt="image" src="https://github.com/user-attachments/assets/8225ce60-d4c8-4623-b08a-f6c60c63e045" />
   <img width="214" height="189" alt="image" src="https://github.com/user-attachments/assets/2b419130-0794-48eb-8cef-1ca377670c3f" />
-
+  <img width="409" height="626" alt="image" src="https://github.com/user-attachments/assets/46ee8e5b-c87f-4199-ac15-516a69350272" />
 </p>
 
 <p align="center">
