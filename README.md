@@ -6,3 +6,5 @@ Beyond building a functional robotic arm, this project aims to provide a hands-o
 
 I made Ulysses, primarily because, i wanted to make a passion project for my university applications, i took the upcoming science fair as an opportunity to present Ulysses and challenge my self to have the project done within two weeks which i think represents my future in engineering which is making cool things that help people in tight deadlines.
 (i think that's enough waffling for now)
+
+<img width="1080" height="645" alt="image" src="https://github.com/user-attachments/assets/e3438f86-2c75-401c-8062-d816803dcf76" />
