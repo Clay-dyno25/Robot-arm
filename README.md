@@ -1,6 +1,8 @@
 Project Ulysses
 
 <img width="428" height="663" alt="image" src="https://github.com/user-attachments/assets/e56efe03-912d-4196-8699-5de42bc7073a" />
+<img width="363" height="597" alt="image" src="https://github.com/user-attachments/assets/b705650a-d187-4e79-905e-170f99d3c0a9" />
+
 
 
 Project Ulysses is a low-cost robotic arm designed to demonstrate the principles of automation and robotics. Its primary function is to perform a repetitive pick-and-place task, moving objects between predetermined locations using servo motors and programmed movements.
