@@ -20,7 +20,7 @@ I made Ulysses as a passion project for my university applications. The upcoming
 ### 3D model
 
 <p align="center">
-  <img width="1080" alt="Full 3D model of Ulysses" src="https://github.com/user-attachments/assets/e3438f86-2c75-401c-8062-d816803dcf76" />
+ <img width="373" height="674" alt="image" src="https://github.com/user-attachments/assets/52428027-f535-46ae-aef7-a5a1ebc47a31" />
 </p>
 
 *Figure 1: Full 3D model of Ulysses (Onshape).*
@@ -41,7 +41,13 @@ Not applicable. Ulysses has no custom PCB; the servos are wired directly to the 
 
 ## Wiring diagram
 
-> **TODO:** Insert wiring diagram image here, e.g. `![Wiring diagram](images/wiring.png)`
+<p align="center">
+  <img width="1080" alt="Full 3D model of Ulysses" src="https://github.com/user-attachments/assets/e3438f86-2c75-401c-8062-d816803dcf76" />
+</p>
+
+<p align="center">
+  <img width="932" alt="Ulysses parts layout" src="https://github.com/user-attachments/assets/b91d1275-8e76-437f-aa21-ada1962af0ea" />
+</p>
 
 | Servo | Joint | Signal pin | Power |
 |-------|-------|-----------|-------|
