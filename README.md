@@ -80,9 +80,11 @@ Not applicable. Ulysses has no custom PCB; the servos are wired directly to the 
 
 | Servo | Joint | Signal pin | Power |
 |-------|-------|-----------|-------|
-| MG90S #1 | Base rotation | `TODO` | 5V / GND |
-| MG90S #2 | Shoulder / lower arm | `TODO` | 5V / GND |
-| SG90 | Wrist | `TODO` | 5V / GND |
+| MG90S #1 | Base rotation | D9 | 5V / GND |
+| MG90S #2 | Shoulder / lower arm | D10 | 5V / GND |
+| SG90 #1| Wrist | D11 | 5V / GND |
+| SG90 #2| Wrist | D12 | 5V / GND |
+| SG90 3#| Wrist | D13 | 5V / GND |
 
 > **Tip:** Power the servos from a separate 5V supply (shared ground with the controller) rather than the board's 5V pin, since servos can draw enough current to reset a microcontroller.
 
