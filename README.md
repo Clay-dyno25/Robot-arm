@@ -131,7 +131,7 @@ Attach the last servo bundle (the one with the SG90) to the pin holes on the upp
 
 Connect each servo to the controller following the wiring diagram above. Route the cables along the arm and secure them loosely so they don't snag when the joints move.
 
-> **TODO:** Add cable-routing tips or a photo if you have one.
+> **TODO:** Keep the wire clear of any joints to avoid tangling
 
 ### Step 7: Centre the servos and test
 
@@ -143,7 +143,7 @@ Arduino Uno R3
 
 1. Install the toolchain (e.g. Arduino IDE).
 2. Download or clone this repository.
-3. Open the firmware file (`TODO: path/to/ulysses.ino`).
+3. Open the firmware file (arm_firmware.ino).
 4. Set the servo pins to match your wiring.
 5. Select your board and port, then upload.
 6. Power the arm from the external 5V supply and it will begin its pick-and-place routine.
