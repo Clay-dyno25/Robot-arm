@@ -131,7 +131,7 @@ Attach the last servo bundle (the one with the SG90) to the pin holes on the upp
 
 Connect each servo to the controller following the wiring diagram above. Route the cables along the arm and secure them loosely so they don't snag when the joints move.
 
-> **TODO:** Keep the wire clear of any joints to avoid tangling
+> **TIp:** Keep the wire clear of any joints to avoid tangling
 
 ### Step 7: Centre the servos and test
 
