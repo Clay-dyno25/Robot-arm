@@ -11,3 +11,4 @@ I decided to redesign the base to save costs since i have decided to switch the 
 
 <p align="center">
   <img width="413" height="626" alt="image" src="https://github.com/user-attachments/assets/343d56b4-5498-43ae-b377-530b05dcd35c" />
+</p>
